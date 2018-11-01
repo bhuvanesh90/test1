@@ -1,4 +1,4 @@
-<?php
+yes<?php
 /**
  * Application entry point
  *
